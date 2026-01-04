@@ -13,3 +13,7 @@ This mini project demonstrates core Object-Oriented Programming (OOP) concepts i
 - Encapsulation
 
 ## 📂 Project Structure
+oop-car-project/
+│── README.md
+│── src/
+│ └── car.py
